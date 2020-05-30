@@ -19,7 +19,7 @@ What this Project contains?
 </ul>
 
 ## Working
-<img src="https://github.com/krunal3kapadiya/react-native-learning-demo/blob/master/device-2018-02-15-153833.png" width="450"/>
+<img src="device-2018-02-15-153833.png" width="450"/>
 
 ## How to contribute?
 - Check out contribution :point_right: [Guidelines](./CONTRIBUTING.md)  
