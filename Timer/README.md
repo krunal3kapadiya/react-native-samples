@@ -8,7 +8,7 @@ To run app in android run:
 `react-native run-android`
 
 ## Screenshot
-<img src="/screenshot.gif" height = "450"/>
+<img src="screenshot.gif" height = "450"/>
 
 ## How to contribute?
 - Check out contribution :point_right: [Guidelines](./CONTRIBUTING.md)  
